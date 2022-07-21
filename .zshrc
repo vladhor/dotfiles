@@ -199,6 +199,11 @@ alias ls='colorls'
 alias vi=vim
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 
+# Others Aliases:
+# ripgrep -> search tool
+
+
+
 # Configure colorls path
 #export PATH:$PATH:/home/vlado/.local/share/gem/ruby/3.0.0/bin
 
